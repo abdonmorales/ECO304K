@@ -1,5 +1,5 @@
 # ECO304K
-**Fall 2023, Katherine Grooms, The University of Texas at Austin
+**Fall 2023, Katherine Grooms, The University of Texas at Austin**
 
 ECO 304K is an introductory course for Microeconomics at the University of Texas at Austin
 
